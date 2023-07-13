@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: black;
+    color:white;
+}
+
+.header{
+    background-color: #1d1f25;
+}
+
+/*.card{
+    background-color: rgb(19, 19, 19);
+}*/
+
+.photo{
+    width:250px;
+}
